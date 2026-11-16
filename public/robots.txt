@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://simplyamir-pc-store-67cdb1a9156f.herokuapp.com/sitemap.xml
